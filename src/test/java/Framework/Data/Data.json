@@ -1,0 +1,23 @@
+[
+{
+"RadioOPtion" : "Radio3",
+"CountryInitials" : "Ind",
+"Country" : "India",
+"dropdownOP" : "Option3",
+"CheckboxOP" : "Option3",
+"Name" : "Ketan Chauhan",
+"tableScroll" : "document.querySelector('.tableFixHead').scrollTop=100",
+"DisplayText" : "Content"
+},
+{
+"RadioOPtion" : "Radio3",
+"CountryInitials" : "Ind",
+"Country" : "India",
+"dropdownOP" : "Option2",
+"CheckboxOP" : "Option3",
+"Name" : "Ketan Chauhan",
+"tableScroll" : "document.querySelector('.tableFixHead').scrollTop=100",
+"DisplayText" : "Content"
+
+}
+]
